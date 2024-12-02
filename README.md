@@ -1,25 +1,25 @@
-# Movie Review Project
+# :movie_camera: Movie Review Project
 영화 리뷰 관리 사이트 제작
 
 ---
 
 
-## 프로젝트 소개
+## :black_nib: 프로젝트 소개
 사용자, 영화, 시청기록, 리뷰 테이블을 생성해서 <br> 
 특정 영화에 대한 시청기록이 존재하는 사용자만이 리뷰를 작성할 수 있습니다.
 
 
-## 개발 환경
+## :golf: 개발 환경
 - `Java`
 - `JDK-21.0.4`
 - **IDE** : Eclipse
 - **Database**: Oracle DB (23c Express Edition)
 - **SQL Developer**: Version 23.1
 
-## ERD
+## :key: ERD
 <img src ="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/1.png">
 
-## 화면 출력
+## :mag_right: 화면 출력
 > 회원 메뉴
 > <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/2.png">
 
@@ -33,7 +33,7 @@
 > <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/5.png">
 
 
-## 주요 기능
+## :bulb: 주요 기능
 
 #### USER_ID_TRIGGER
 ```
