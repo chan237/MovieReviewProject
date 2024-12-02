@@ -19,20 +19,6 @@
 ## :key: ERD
 <img src ="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/1.png">
 
-## :mag_right: 화면 출력
-> 회원 메뉴
-> <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/2.png">
-
-> 영화 메뉴
-> <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/3.png">
-
-> 시청 기록 메뉴
-> <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/4.png">
-
-> 리뷰 메뉴
-> <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/5.png">
-
-
 ## :bulb: 주요 기능
 
 #### USER_ID_TRIGGER
@@ -87,3 +73,18 @@ END;
 /
 ```
 - 장르별 영화 출력
+
+## :mag_right: 화면 출력
+> 회원 메뉴
+> <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/2.png">
+
+> 영화 메뉴
+> <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/3.png">
+
+> 시청 기록 메뉴
+> <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/4.png">
+
+> 리뷰 메뉴
+> <img src="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/5.png">
+
+
