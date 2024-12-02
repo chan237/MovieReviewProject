@@ -16,6 +16,8 @@
 - **Database**: Oracle DB (23c Express Edition)
 - **SQL Developer**: Version 23.1
 
+## ERD
+<img src ="https://github.com/chan237/MovieReviewProject/blob/main/MovieReviewProject(1)/test/1.png">
 
 ## 화면 출력
 > 회원 메뉴
